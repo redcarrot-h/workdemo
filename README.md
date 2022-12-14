@@ -16,11 +16,12 @@
 
 ### BlockQuote
 
-> This is a first blockquote
->
-> > This is a second blockquote
->
-> This is a first blockquote
+- 주석은 >로 표현 주석 내 주석은 >> 2개를 씀
+  > This is a first blockquote
+  >
+  > > This is a second blockquote
+  >
+  > This is a first blockquote
 
 ### 목록 (LIST)
 
@@ -47,7 +48,11 @@
 
 ### 표만들기
 
-|  이름  |  주소  |   전화번호    |
-| :----: | :----: | :-----------: |
+- |(vertical bar) : 테이블 표현
+- : 정렬, 앞뒤로 쓰면 가운데 정렬
+- (---) 헤더와 셀 구분
+
+| 이름   | 주소   | 전화번호      |
+| :----- | :----- | :------------ |
 | 홍길동 | 서울시 | 02-1234-23456 |
 | 여진구 | 경기도 | 031-2523-5233 |
