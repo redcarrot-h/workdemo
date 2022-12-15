@@ -95,4 +95,4 @@ _이텔릭_
 
 ![box](images/mobile_152415321144.jpg)
 
-[![daum]](images/daum.png)(https://www.daum.net/)
+[![daum](images/daum.png)](https://www.daum.net/)
