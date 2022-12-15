@@ -91,4 +91,4 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver](https://www.naver.com/)
+![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_728x360_112955548973432846.jpeg)
