@@ -80,12 +80,22 @@
 _이텔릭_
 _이텔릭_
 ~~취소선~~
+
+<!-- 실행 안됨 이유를 모르겠음-->
+
 <u>밑줄</u>
 
 ### 링크(Links)
 
+<!-- 깃허브 사이트에서는 앞에 내 아이디를 넣어줘서 사이트가 안뜸 -->
+
 [naver](https:www.naver.com/)
+
+<!--깃허브 사이트에 a.txt 페이지로 이동-->
+
 [link](a.txt)
+
+<!-- 외부링크 사용시 -->
 
 다음 홈페이지 : <https://www.daum.net>
 
@@ -95,4 +105,8 @@ _이텔릭_
 
 ![box](images/mobile_152415321144.jpg)
 
+<!--이미지를 클릭했을때 하이퍼링크로 연동 -->
+
 [![daum](images/daum.png)](https://www.daum.net/)
+
+<img src='images/daum.png' alt='daum'>
